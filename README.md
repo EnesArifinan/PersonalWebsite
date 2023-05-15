@@ -1,5 +1,5 @@
 # Personal Website
-This is personal website, built using HTML, CSS, and JavaScript. The website includes information about me, my skills, and my projects.
+This is personal website, built using HTML, CSS, JavaScript and W3.CSS library. The website includes information about me, my skills, and my projects.
 
 ## Technologies Used
 HTML CSS JavaScript
@@ -16,6 +16,8 @@ bash Copy code git clone https://github.com/EnesArifinan/PersonalWebsite.git Ope
 
 ## Credits
 This website was created by Enes Arifinan. It was built using the following resources:
+
+W3.CSS - A Quality Alternative to Bootstrap
 
 Font Awesome - A library of icons and fonts for web projects
 
